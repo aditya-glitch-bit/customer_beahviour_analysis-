@@ -1,5 +1,5 @@
-# customer_beahviour_analysis-
-Customer behavior analysis project. Built using Python (pandas), SQL querying, and Power BI dashboards to drive data-driven business insights.
+# customer_retention_analysis-
+Customer retention analysis project. Built using Python (pandas), SQL querying, and Power BI dashboards to drive data-driven business insights.
 # Data Analytics Project
 
 ## Overview
